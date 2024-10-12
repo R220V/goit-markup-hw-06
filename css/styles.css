@@ -727,7 +727,7 @@ input:checked + .privacy-label .checkbox-custom {
   @media (min-resolution: 192dpi) {
     .order-main {
       background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
-        url('../images/Business/darkbgtablet@2x.jpg');
+        url('../images/Business/darkbgpc@2x.jpg');
     }
   }
 
